@@ -17,9 +17,8 @@
 
 ## 🚀 Featured Projects
 - [Windows Optimizer](https://github.com/III85III/optimize_windows): High-end Windows performance optimization & debloat suite.
-- [ZenFolder](https://github.com/III85III/zenfolder): Automated, safe file organizer.
-- [Crypto Analyzer](https://github.com/III85III/crypto_analyzer): Real-time crypto technical analysis & trading signals dashboard.
-- [Telegram Hunter](https://github.com/III85III/telegram_hunter): Fast Telegram username scanner with Web UI.
+- [ZenFolder](https://github.com/III85III/zenfolder): Automated, safe background file organizer.
+- [Crypto Analyzer](https://github.com/III85III/crypto_analyzer): Real-time crypto technical indicators & signals terminal.
 
 ---
 <p align="center">
