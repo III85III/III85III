@@ -16,6 +16,7 @@
 </p>
 
 ## 🚀 Featured Projects
+- [Telegram Hunter](https://github.com/III85III/telegram_hunter): High-speed real dictionary (+40k words) & alphanumeric Telegram username scanner.
 - [Windows Optimizer](https://github.com/III85III/optimize_windows): High-end Windows performance optimization & debloat suite.
 - [ZenFolder](https://github.com/III85III/zenfolder): Automated, safe background file organizer.
 - [Crypto Analyzer](https://github.com/III85III/crypto_analyzer): Real-time crypto technical indicators & signals terminal.
